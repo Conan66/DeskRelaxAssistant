@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/diagram/front.png</file>
+        <file>assets/diagram/side.png</file>
+        <file>assets/stretch/neck_side_1.png</file>
+        <file>assets/stretch/neck_side_2.png</file>
+        <file>assets/stretch/shoulder_1.png</file>
+        <file>assets/stretch/shoulder_2.png</file>
+        <file>assets/stretch/shoulder_3.png</file>
+        <file>assets/stretch/chest_1.png</file>
+        <file>assets/stretch/chest_2.png</file>
+        <file>assets/stretch/twist_1.png</file>
+        <file>assets/stretch/twist_2.png</file>
+        <file>assets/stretch/sidebend_1.png</file>
+        <file>assets/stretch/sidebend_2.png</file>
+        <file>assets/stretch/knee_1.png</file>
+        <file>assets/stretch/knee_2.png</file>
+        <file>assets/sfx/tick.wav</file>
+        <file>assets/music/gong.wav</file>
+        <file>assets/music/shang.wav</file>
+        <file>assets/music/jue.wav</file>
+        <file>assets/music/zhi.wav</file>
+        <file>assets/music/yu.wav</file>
+    </qresource>
+</RCC>
